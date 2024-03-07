@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Registro>
+	<Studente>
+		<nome>pippo</nome>
+		<cognome>pluto</cognome>
+		<insegnante>
+		<nome>Andrea</nome>
+		<cognome>Parodi</cognome>
+		<disciplina>
+		<nome>TPSI</nome>
+			<voto>
+				<data>2022-10-15</data>
+				<tipologia>scritto</tipologia>
+				<punteggio>56</punteggio>
+				<decimale>5.5</decimale>
+			</voto>
+		</disciplina>
+		</insegnante>	
+	</Studente>
+	<Studente>
+		<nome>mario</nome>
+		<cognome>rossi</cognome>
+		
+		<insegnante>
+		<nome>Andrea</nome>
+		<cognome>Parodi</cognome>
+		<disciplina>
+		<nome>TPSI</nome>
+			<voto>
+				<data>2022-10-15</data>
+				<tipologia>orale</tipologia>
+				<punteggio>65</punteggio>
+				<decimale>5.5</decimale>
+			</voto>
+		</disciplina>
+		</insegnante>
+	</Studente>
+</Registro>
